@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anmolkainth(ak)
 - 👀 I’m interested in robotics 
-- 🌱 I’m currently learning basics of python then i will swith to c
+- 🌱 I’m currently learning basics of python then i will switch to c(update i am learning arduino coding)
 - 🖤 i will really appreciate your advices about what should i do as a beginner in robotics 
   
 
